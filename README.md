@@ -1,5 +1,6 @@
 # Predictive-Analytics-project
 #About Dataset
+**# Project Name -> Online Shoppers Purchase Intention**
 This project uses the Online Shoppers Intention dataset to predict whether a visitor will make a purchase or not on an e-commerce website.
 
 The goal is to understand which user behaviors lead to purchases and build a simple machine learning model that can classify sessions as purchase or no-purchase.
